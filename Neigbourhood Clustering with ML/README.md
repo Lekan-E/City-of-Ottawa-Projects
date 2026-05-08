@@ -6,7 +6,7 @@ A machine learning analysis of eight years of Ottawa Police Service open data, g
 
 **Analysis period:** 2018–2025 &nbsp;|&nbsp; **Neighbourhoods:** 104 &nbsp;|&nbsp; **Total incidents:** 348,767
 
-![A](https://github.com/Lekan-E/Analysis-of-Canadian-Gas-Prices/blob/30cf2276736195e0e7685340e74a37df1a9113b0/Images/gas%20db%20schema.png)
+![A](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/bdff1635f2c4a903609238e409c579a8d8ce9d51/Neigbourhood%20Clustering%20with%20ML/Images/map.png)
 ---
 
 ## Key Findings
