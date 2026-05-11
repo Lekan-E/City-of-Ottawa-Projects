@@ -9,6 +9,8 @@ A machine learning analysis of eight years of Ottawa Police Service open data, g
 ![A](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/bdff1635f2c4a903609238e409c579a8d8ce9d51/Neigbourhood%20Clustering%20with%20ML/Images/map.png)
 ---
 
+**Application:** Check out the interactive web application to gain more information about Ottawa neighbourhoods: !(https://neigbourhood-map.onrender.com)
+
 ## Key Findings
 
 - **Centretown forms a cluster of one** — 52,597 incidents over the period, more than the bottom 42 neighbourhoods combined.
