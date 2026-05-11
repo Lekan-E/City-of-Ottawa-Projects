@@ -5,11 +5,10 @@ A machine learning analysis of eight years of Ottawa Police Service open data, g
 
 
 **Analysis period:** 2018–2025 &nbsp;|&nbsp; **Neighbourhoods:** 104 &nbsp;|&nbsp; **Total incidents:** 348,767
+**Application:** Check out the interactive web application to gain more information about Ottawa neighbourhoods: https://neigbourhood-map.onrender.com
 
 ![A](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/bdff1635f2c4a903609238e409c579a8d8ce9d51/Neigbourhood%20Clustering%20with%20ML/Images/map.png)
 ---
-
-**Application:** Check out the interactive web application to gain more information about Ottawa neighbourhoods: !(https://neigbourhood-map.onrender.com)
 
 ## Key Findings
 
