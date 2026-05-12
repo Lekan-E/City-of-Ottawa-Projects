@@ -1,14 +1,12 @@
 # Real-Time Monitoring Dashboard for Red-Light Camera Violations in Ottawa
 
-**Project Owner:** Olamilekan Elegbede  
-**Institution:** School of Advanced Technology, Algonquin College  
 **Tools:** Microsoft Excel · Power Query · Tableau
 
 ---
 
 ## Overview
 
-Red-light camera violations are a significant traffic safety concern in Ottawa. While the City of Ottawa publishes violation data publicly through Open Ottawa, the data is spread across multiple disconnected datasets, making it difficult for city officials to identify high-risk intersections or detect meaningful trends.
+Red-light camera violations are a significant traffic safety concern in Ottawa. While the City of Ottawa publishes violation data publicly through Open Ottawa, the data is spread across multiple disconnected datasets, making it difficult to identify high-risk intersections or detect meaningful trends.
 
 This project consolidates 13 annual datasets (2015–2026) covering 86 red-light cameras into a single, unified data source and delivers a four-page interactive Tableau dashboard that turns raw open data into actionable traffic safety insights.
 
@@ -35,6 +33,7 @@ All cleaning and transformation was performed in Microsoft Excel and Power Query
 ---
 
 ## Dashboard Pages
+Dashboard Link - https://public.tableau.com/views/OttawaRed-LightCameraViolations15-26/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 1. Overview Dashboard
 ![Overview Dashboard](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/8a34e52b58b0f0ccece5e8f8a2c7613786110a88/Red-Light%20Camera%20Violations/Images/p1.png)
