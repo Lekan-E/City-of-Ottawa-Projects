@@ -1,7 +1,7 @@
 # Real-Time Monitoring Dashboard for Red-Light Camera Violations in Ottawa
 
 **Tools:** Microsoft Excel · Power Query · Tableau
-
+**Dashboard Link:**  https://public.tableau.com/views/OttawaRed-LightCameraViolations15-26/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## Overview
@@ -33,7 +33,6 @@ All cleaning and transformation was performed in Microsoft Excel and Power Query
 ---
 
 ## Dashboard Pages
-Dashboard Link - https://public.tableau.com/views/OttawaRed-LightCameraViolations15-26/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### 1. Overview Dashboard
 ![Overview Dashboard](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/8a34e52b58b0f0ccece5e8f8a2c7613786110a88/Red-Light%20Camera%20Violations/Images/p1.png)
