@@ -37,7 +37,7 @@ All cleaning and transformation was performed in Microsoft Excel and Power Query
 ## Dashboard Pages
 
 ### 1. Overview Dashboard
-![Overview Dashboard](https://github.com/user-attachments/assets/overview-dashboard)
+![Overview Dashboard](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/8a34e52b58b0f0ccece5e8f8a2c7613786110a88/Red-Light%20Camera%20Violations/Images/p1.png)
 
 The entry point of the dashboard, providing a consolidated summary for program-level decision-making. Features four KPI cards (total violations, active cameras, total fines issued, top intersection), a monthly bar chart with a reference line, a radar chart of violations by camera direction, a geographic bubble map, and a ranked bar chart of intersections by violation share.
 
@@ -46,21 +46,21 @@ The entry point of the dashboard, providing a consolidated summary for program-l
 ---
 
 ### 2. Seasonal Trends Dashboard
-![Seasonal Trends Dashboard](https://github.com/user-attachments/assets/seasonal-trends-dashboard)
+![Seasonal Trends Dashboard](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/8a34e52b58b0f0ccece5e8f8a2c7613786110a88/Red-Light%20Camera%20Violations/Images/p2.png)
 
 Focuses on how violations fluctuate across months, seasons, and years. Includes a year-over-year area chart, monthly violation trends, a yearly violations per season chart, and a stacked bar chart of camera direction violations by season. Violations decrease in winter and peak in summer, suggesting weather plays a measurable role in driver behaviour. **2023 recorded the highest single-year violations (~56,000).**
 
 ---
 
 ### 3. Camera Insights Dashboard
-![Camera Insights Dashboard](https://github.com/user-attachments/assets/camera-insights-dashboard)
+![Camera Insights Dashboard](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/8a34e52b58b0f0ccece5e8f8a2c7613786110a88/Red-Light%20Camera%20Violations/Images/p3.png)
 
 An interactive, location-level deep-dive. Clicking any camera on the map updates all elements: KPI cards (intersection, install year, direction, total violations, fines), a monthly bar chart, a scatter plot of violations by camera age, a risk classification indicator (1–Critical to 5–Minimal), a box plot distribution, and a live camera feed where available. Risk tiers are derived from interquartile thresholds applied consistently across all 86 cameras.
 
 ---
 
 ### 4. Violations Dashboard
-![Violations Dashboard](https://github.com/user-attachments/assets/violations-dashboard)
+![Violations Dashboard](https://github.com/Lekan-E/City-of-Ottawa-Projects/blob/8a34e52b58b0f0ccece5e8f8a2c7613786110a88/Red-Light%20Camera%20Violations/Images/p4.png)
 
 A fully filterable row-level record of all infractions from 2015–2026. A color-coded violations table (red = Critical Risk → green = Low Risk) surfaces problem locations at a glance. Two KPI cards identify the all-time peak enforcement period and the highest-cumulative intersection. A box plot shows the statistical distribution of average monthly violations across the entire camera fleet.
 
